@@ -1,4 +1,4 @@
-import * as index from '../index.js';
+import * as index from '../switches.js';
 
 describe('Switch Statements', () => {
 	describe('Selecting with many options', () => {
